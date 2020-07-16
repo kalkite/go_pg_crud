@@ -3,10 +3,10 @@
 This is a sample web application for CRUD operations by using go and postgreSQL. 
 
 
-![screen2.png](https://github.com/chittibc/go_pg_crud_web_application/blob/master/screen2.png)
+![2.png](https://github.com/chittibc/go_pg_crud/blob/master/2.png)
 
 
-![screenshot1.png](https://github.com/chittibc/go_pg_crud_web_application/blob/master/screenshot1.png)
+![1.png](https://github.com/chittibc/go_pg_crud/blob/master/1.png)
 
 # How to Use
 
@@ -14,6 +14,5 @@ This is a sample web application for CRUD operations by using go and postgreSQL.
 * Clone this repository.
 * Execute the `customers.sql` file into your PostgreSQL client. This will import sample database and tables that will be used for this example.
 * Modify `main.go` file, You must configure the PostgreSQL database connection. Change your postgreSQL username and passoword in db connectin. 
-* Run `go build` to build the executable file.
-* Run/execute the generated program via terminal/command line.
-* Open your web browser, and navigate to `http://localhost:8080
+* go to your project and Run go run cmd/web/* or if you want to add command line interface port you give , # go run cmd/web/* :9999 
+* Open your web browser, and navigate to `http://localhost:4000
