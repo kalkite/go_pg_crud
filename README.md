@@ -16,4 +16,4 @@ This is a sample web application for CRUD operations by using go and postgreSQL.
 * Modify `main.go` file, You must configure the PostgreSQL database connection. Change your postgreSQL username and passoword in db connectin. 
 * go to your project and Run `$go run cmd/web/*` or if you want to add command line interface port you give , `$go run cmd/web/* :9999` 
 * Open your web browser, and navigate to `http://localhost:4000`
-* if you get any error in importing pacakges, `go mod init project_name', 
+* if you get any error in importing pacakges, `go mod init project_name`, 
