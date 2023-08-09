@@ -2,6 +2,22 @@
 
 This is a sample web application for CRUD operations by using go and postgreSQL. 
 
+# Project Name
+
+Brief description of your project.
+
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+## Project Structure
+
+
 
 ![2.png](https://github.com/chittibc/go_pg_crud/blob/master/2.png)
 
