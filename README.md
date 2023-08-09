@@ -1,21 +1,24 @@
-# go_pg_crud
+# Go Web Applicaiton 
 
-This is a sample web application for CRUD operations by using go and postgreSQL. 
+## Description
 
-# Project Name
+This project is a Go web application designed for creating and managing code snippets. It offers features like user registration (signup), authentication and authorization (login), and a dynamic home page for viewing and organizing snippets. The application leverages Go's strong concurrency support and web development capabilities to provide an efficient and responsive user experience.
 
-Brief description of your project.
+## Features
 
-## Table of Contents
+- User signup and login functionality.
+- Database-driven responses for storing and retrieving user data and snippets.
+- Dynamic HTML templates for rendering dynamic content.
+- Middleware for security headers. 
+- Advanced routing to handle different URL paths and HTTP methods.
+- Stateful HTTP interaction to maintain user sessions and data.
+- Enhanced security measures:
+  - Running HTTPS servers for secure communication.
+  - Connection timeouts to prevent idle connections.
+  - Configuring HTTPS settings for improved security.
+  - User authentication and context-based authorization.
+- Use of request context for managing authentication and authorization.
 
-- [Project Structure](#project-structure)
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
-
-## Project Structure
 
 
 
