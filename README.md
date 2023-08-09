@@ -22,7 +22,7 @@ This project is a Go web application designed for creating and managing code sni
 
 
 
-![2.png](https://github.com/chittibc/go_pg_crud/blob/master/2.png)
+![login.png](https://github.com/kalkite/go_web_application/blob/master/login.png)
 
 
 ![1.png](https://github.com/chittibc/go_pg_crud/blob/master/1.png)
