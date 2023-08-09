@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Go web application designed for creating and managing code snippets. It offers features like user registration (signup), authentication and authorization (login), and a dynamic home page for viewing and organizing snippets. The application leverages Go's strong concurrency support.
+This project is a Go web application designed for creating and managing snippetboxes. It offers features like user registration (signup), authentication and authorization (login), and a dynamic home page for viewing and organizing snippets. The application leverages Go's strong concurrency support.
 
 ## Features
 
