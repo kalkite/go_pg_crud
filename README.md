@@ -26,12 +26,6 @@ This project is a Go web application designed for creating and managing code sni
 
 ![create_snippet.png](https://github.com/kalkite/go_web_application/blob/master/create_snippet.png)
 
-# How to Use
 
-* Install PostgreSQL on your system. You can skip this step if already installed.
-* Clone this repository.
-* Execute the `customers.sql` file into your PostgreSQL client. This will import sample database and tables that will be used for this example.
-* Modify `main.go` file, You must configure the PostgreSQL database connection. Change your postgreSQL username and passoword in db connectin. 
-* go to your project and Run `$go run cmd/web/*` or if you want to add command line interface port you give , `$go run cmd/web/* :9999` 
-* Open your web browser, and navigate to `http://localhost:4000`
-* if you get any error in importing pacakges, `go mod init project_name`, 
+
+* Install Mysql and Postgressql. 
