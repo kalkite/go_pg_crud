@@ -1,4 +1,4 @@
-# Go Web Applicaiton 
+# Go Web Application backend.  
 
 ## Description
 
@@ -7,7 +7,7 @@ This project is a Go web application designed for creating and managing code sni
 ## Features
 
 - User signup and login functionality.
-- Database-driven responses for storing and retrieving user data and snippets.
+- Database-driven responses for storing and retrieving user data and snippets using Mysql. 
 - Dynamic HTML templates for rendering dynamic content.
 - Middleware for security headers. 
 - Advanced routing to handle different URL paths and HTTP methods.
